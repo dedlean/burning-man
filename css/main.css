@@ -96,6 +96,7 @@ h2 {
 	text-transform: uppercase;
 	font-size: 50px;
 	margin: 0 0 58 0;
+	letter-spacing: 2px;
 }
 
 .descr {
@@ -116,6 +117,7 @@ h2 {
 h3 {
 	text-transform: uppercase;
 	font-size: 25px;
+	letter-spacing: 1px;
 }
 
 .gallery {
@@ -156,7 +158,7 @@ footer {
 	margin-right: 0;
 }
 
-.footer-lele {
+.footer-wrapper {
 	display: flex;
 }
 
@@ -253,7 +255,7 @@ footer {
 		width: 100%
 	}
 
-	.footer-lele {
+	.footer-wrapper {
 		flex-wrap: wrap;
 	}
 
